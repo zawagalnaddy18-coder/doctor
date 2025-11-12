@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doctor-smoky-chi.vercel.app/sitemap.xml
